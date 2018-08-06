@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#23283a</color>
+    <color name="pink">#fe104d</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorFuncBtnBackground">#cccccc</color>
+    <color name="colorFuncBtnText">#000000</color>
+    <color name="colorNumBtnBackground">#dddddd</color>
+    <color name="colorNumBtnText">#333333</color>
+
+</resources>
